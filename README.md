@@ -1,4 +1,4 @@
-# DegreeClassificationPredictorS
+# DegreeClassificationPredictor
 
 A Streamlit-based machine learning app that predicts undergraduate degree classifications using a combination of academic, socioeconomic, and psychological factors, along with macroeconomic indicators like inflation and unemployment trends. 
 
